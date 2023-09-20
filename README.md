@@ -1,5 +1,5 @@
-# System design diary
-### SDD 1: High level overview of designing streaming platform
+## High level overview
+### SDD 1: Designing streaming platform
 
 #### Requirements:
 * Users can watch videos ( TV shows , documentary )
